@@ -140,4 +140,4 @@ Actually I already used it for `API KEYS` and when I changed the code formatter 
 ## Further reading
 
 * [Git attributes and filters documentation](https://git-scm.com/book/ms/v2/Customizing-Git-Git-Attributes)
-* [sed command documentation](https://www.gnu.org/software/sed/manual/sed.html)
+* [Sed command documentation](https://www.gnu.org/software/sed/manual/sed.html)
