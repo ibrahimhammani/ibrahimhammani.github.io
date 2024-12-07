@@ -18,7 +18,7 @@ description: Commit files that contain customizations or sensitive data, without
 
 ## Introduction
 
-When working with git, there are cases when you want to track a file but you don't want to override a part of its content,when you `git commit`, neither you want this part of its content to be overridden when you `git pull` or `git pull` .
+When working with git, there are cases when you want to track a file but you don't want to override a part of its content,when you `git commit`, neither you want this part of its content to be overridden when you `git pull` or `git checkout` .
 
 ## Gitignore is not an option
 
