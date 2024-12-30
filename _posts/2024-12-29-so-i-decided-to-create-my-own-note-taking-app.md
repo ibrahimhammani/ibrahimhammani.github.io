@@ -18,7 +18,7 @@ description: Create an android note taking application using ionicframework.
 is_series: true
 series_title: "Snapshot, my note taking application"
 ---
-![Image]({{"assets/images/snapshot-android-app/cover.png"  | relative_url }})
+![Cover]({{"assets/images/snapshot-android-app/cover.png"  | relative_url }})
 
 ## Introduction
 
@@ -51,7 +51,7 @@ The best part about **Snapshot** since I'm a big fan of markdown myself:
 * The notes content is that it supports **Markdown** syntax, but it's not required
 * The content of the note is  rendered in **HTML**
 
-![Image]({{"assets/images/snapshot-android-app/main-screen.png"  | relative_url }}){: style="height:800px"}
+![Main screen]({{"assets/images/snapshot-android-app/main-screen.png"  | relative_url }}){: style="height:800px"}
 
 ## Main interface elements
 
@@ -70,7 +70,7 @@ See image below:
 7. The title of the note, in text only format
 8. The content of the note, in text or markdown format
 
-![Image]({{"assets/images/snapshot-android-app/main-screen-numbers.png"  | relative_url }}){: style="height:800px"}
+![Main screen with numbers]({{"assets/images/snapshot-android-app/main-screen-numbers.png"  | relative_url }}){: style="height:800px"}
 
 ### Note screen
 
@@ -84,13 +84,13 @@ If you click any note the bellow screen will be shown
 6. Save the note
 7. Cancel note adding, if clicked the user will be prompted for confirmation
 
-![Image]({{"assets/images/snapshot-android-app/note-screen.png"  | relative_url }}){: style="height:800px"}
+![Note screen]({{"assets/images/snapshot-android-app/note-screen.png"  | relative_url }}){: style="height:800px"}
 
 ### Preview screen
 
 This screen shows the note with all ut's details, if markdown syntax is used the content will be rendered, see the following screenshot
 
-![Image]({{"assets/images/snapshot-android-app/note-preview-screen.png"  | relative_url }}){: style="height:800px"}
+![Note preview screen]({{"assets/images/snapshot-android-app/note-preview-screen.png"  | relative_url }}){: style="height:800px"}
 
 ## What's next
 
@@ -112,8 +112,13 @@ The application is in closed test phase on google play store, 14 testers are nee
 
 If you are interested in testing please let me know so I will add you to the testers list, so google play store will allow you to install and test the application.
 
-![Image]({{"assets/images/snapshot-android-app/play-console.png"  | relative_url }})
+![Google Play console]({{"assets/images/snapshot-android-app/play-console.png"  | relative_url }})
 
+## Web version
+
+[A web version is available on this link](https://ibrahimhammani.github.io/snapshot-binaries/){:target="_blank"}, note that all the notes are saved on the local storage, no user data is saved on the remote server.
+
+![Web screen]({{"assets/images/snapshot-android-app/web-screen.png"  | relative_url }})
 ## Want to know more
 
 This blog post is the first of a row of posts I will write whenever I have time to, In the next posts I will talk about the technical details and google play console.
