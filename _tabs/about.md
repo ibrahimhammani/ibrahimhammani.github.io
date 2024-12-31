@@ -6,7 +6,7 @@ order: 4
 
 Hello all,
 
-I've created this blog to writ about random technical topics.
+I've created this blog to writE about random technical topics.
 
 If you have any comments or suggestion please feel free to contact me!
 

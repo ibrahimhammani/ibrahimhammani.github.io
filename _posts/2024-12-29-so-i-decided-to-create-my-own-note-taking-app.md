@@ -17,8 +17,9 @@ tags:
 description: Create an android note taking application using ionicframework.
 is_series: true
 series_title: "Snapshot, my note taking application"
+image: assets/images/snapshot-android-app/cover.png
+thumbnail: assets/images/snapshot-android-app/cover.png
 ---
-![Cover]({{"assets/images/snapshot-android-app/cover.png"  | relative_url }})
 
 ## Introduction
 
