@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello all,
+> Hello all,
 
 I've created this blog to writE about random technical topics.
 
